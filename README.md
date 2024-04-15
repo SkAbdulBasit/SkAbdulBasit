@@ -1,6 +1,6 @@
 ![logo](https://github.com/SkAbdulBasit/SkAbdulBasit/blob/main/background.jpg)
 <h1 align="center">Hi 👋, This is Sk Abdul Basit</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Web developer from India</h3>
 <img align="right" alt="coding" width="350" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDE1YzFvZ24wdmJnODBreXg1d2g1cmtka3AxaWFuaG15YmR1NWVoMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rhZr8u3cvxe0ksf1ej/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skabdulbasit&label=Profile%20views&color=0e75b6&style=flat" alt="skabdulbasit" /> </p>
